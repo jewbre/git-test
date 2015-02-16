@@ -8,5 +8,5 @@ test 1
 razmak do necega sljedecege
 
 
-
+dodano u file
 neki kod
