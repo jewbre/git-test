@@ -3,7 +3,7 @@ file 1
 test 1
 
 
-nesto bezveze da mergamo
+nesto bezveze da promjenimo ovaj red
 
 razmak do necega sljedecege
 
