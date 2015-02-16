@@ -3,7 +3,8 @@ file 1
 test 1
 
 
-nesto bezveze da mergamo
+nesto bezveze da ovdje nesto napravimo
+
 
 razmak do necega sljedecege
 
